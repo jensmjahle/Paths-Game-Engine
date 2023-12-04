@@ -23,3 +23,15 @@ Paths is aimed at providing a platform for creating interactive narratives, allo
 1. Download the [executable JAR file](https://github.com/jensmjahle/paths/blob/main/Paths_2023.jar) to a location on your computer.
 
 2. Double-click the downloaded JAR file to run it.
+
+
+## Example Screenshots
+
+![Main Menu](https://github.com/jensmjahle/paths/blob/main/screenshots/mainmenu.png)
+*The main menu of paths*
+
+![In Game](https://github.com/jensmjahle/paths/blob/main/screenshots/ingame.png)
+*In game example*
+
+![In Game](https://github.com/jensmjahle/paths/blob/main/screenshots/editstory.png)
+*Editing stories page*
