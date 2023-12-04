@@ -1,0 +1,107 @@
+Paths to Kingdom of Snatz
+
+::The Journey Begins
+You are a brave adventurer who has set out on a quest to find the legendary Kingdom of Snatz, a place where magic and wonder exist beyond imagination. You stand at the edge of a dense forest, the path ahead is treacherous, but you are determined to reach your destination.
+[Enter the forest](The Dark Forest)
+[Return home](The End)
+
+::The Dark Forest
+As you step into the forest, the trees loom over you like giants, and the ground beneath your feet feels soft and damp. You hear the sound of footsteps and twigs snapping, and a chill runs down your spine. You must be careful, for danger lurks in every shadow.
+[Keep walking](The Clearing)
+[Turn back](The Journey Begins)
+
+::The Clearing
+You come across a peaceful clearing, and in the center, you see a large stone statue of a fearsome dragon. The statue is surrounded by glowing crystals that shimmer in the sunlight filtering through the trees. You feel a sense of awe and wonder, as if you are standing in the presence of something truly magical.
+[Approach the statue](The Dragon's Lair)
+[Continue through the forest](The Enchanted Stream)
+
+::The Dragon's Lair
+As you approach the statue, you hear a low growl, and suddenly, the statue comes to life! It is a real dragon, and it does not look happy to see you. You must act quickly if you want to survive.
+[Fight the dragon](The Kingdom of Snatz)
+[Run away](The Clearing)
+
+::The Enchanted Stream
+You come across a beautiful stream, the water is crystal clear, and the fish swim gracefully beneath the surface. You feel relaxed and at peace, as if all the troubles of the world have disappeared.
+[Rest and enjoy the scenery](The Waterfall)
+[Continue through the forest](The Dark Cave)
+
+::The Dark Cave
+You enter a dark and ominous cave, and as you walk deeper, you hear strange whispers and whispers. You feel like you are being watched, and you must be careful, for danger lurks around every corner.
+[Continue through the cave](The Secret Door)
+[Turn back](The Enchanted Stream)
+
+::The Secret Door
+As you make your way through the cave, you come across a hidden door. The door is old and rusted, but you can sense that there is something important behind it. You must find a way to open the door and uncover the secrets that lie within.
+[Search for the key](The Hidden Key)
+[Force the door open](The Kingdom of Snatz)
+
+::The Waterfall
+You reach a beautiful waterfall, the water cascading down into a crystal clear pool. You feel refreshed and rejuvenated, as if all the cares of the world have been washed away.
+[Swim in the pool](The Mermaid's Lagoon)
+[Continue through the forest](The Enchanted Stream)
+
+::The Hidden Key
+After searching for what feels like hours, you finally find the key to the hidden door. You unlock the door and step inside, ready to uncover the secrets that lie within.
+[Enter the room](The Magic Mirror)
+[Return to the cave](The Dark Cave)
+
+::The Magic Mirror
+You enter a room filled with strange artifacts and magical objects. In the center of the room stands a large, ornate mirror. As you approach the mirror, you see your reflection begin to shimmer and change. You feel a sense of excitement and wonder, as if you have stumbled upon something truly extraordinary.
+[Step through the mirror](The Kingdom of Snatz)
+[Leave the room](The Hidden Key)
+
+::The Kingdom of Snatz
+After braving through numerous challenges and obstacles, you finally reach the fabled Kingdom of Snatz. The city is bustling with activity, and you see people of all shapes and sizes going about their daily lives. The air is filled with the scent of spices and flowers, and the streets are lined with brightly colored buildings.
+[Explore the city](The Palace Gates)
+[Find a place to rest](The Inn)
+[Return home](The End)
+
+::The Palace Gates
+You arrive at the grand Palace Gates, guarded by heavily armed soldiers. The gates themselves are made of solid gold and encrusted with precious jewels. You can't help but feel intimidated as you approach the guards.
+[Ask to meet the king](The Throne Room)
+[Find another way in](The Secret Passage)
+
+::The Inn
+You find a cozy inn tucked away in a quiet corner of the city. The innkeeper greets you warmly and shows you to a comfortable room. You feel grateful for a chance to rest and relax after your long journey.
+[Rest and recuperate](The Marketplace)
+[Explore the city](The Palace Gates)
+
+::The Throne Room
+You are escorted to the grand Throne Room, where you meet the king himself. He listens patiently as you explain your quest and your desire to learn more about the kingdom.
+[Ask for information](The Royal Library)
+[Seek an audience with the queen](The Garden)
+
+::The Secret Passage
+You discover a secret passage that leads into the palace. The passage is dark and winding, but you follow it anyway, eager to explore the palace on your own.
+[Search for hidden treasure](The Treasury)
+[Eavesdrop on important conversations](The Council Chamber)
+
+::The Marketplace
+You wander through the busy marketplace, marveling at the exotic wares and strange foods on offer. The vendors are eager to sell their wares, and you find yourself caught up in the excitement and bustle of the market.
+[Shop for souvenirs](The Bazaar)
+[Sample the local cuisine](The Food Court)
+
+::The Royal Library
+You are granted access to the Royal Library, which contains a wealth of knowledge about the kingdom and its history. You spend hours pouring over ancient texts and dusty tomes, learning about the kingdom's culture and traditions.
+[Learn about the kingdom's magic](The Wizard's Tower)
+[Discover the kingdom's secrets](The Hidden Chamber)
+
+::The Garden
+You stroll through the beautiful palace gardens, enjoying the peaceful atmosphere and the fragrant flowers. You come across a secluded corner of the garden, where the queen herself is tending to the plants.
+[Ask for the queen's help](The Royal Library)
+[Flirt with the queen](The End)
+
+::The Treasury
+You sneak into the palace treasury, where you find rows upon rows of glittering jewels and piles of gold coins. You can't resist the temptation and begin to stuff your pockets with as much treasure as you can carry.
+[Make your escape](The Great Hall)
+[Return the treasure and confess your crime](The Dungeon)
+
+::The Council Chamber
+You overhear an important conversation taking place in the council chamber. The council members are discussing a threat to the kingdom, and you realize that you may be the only one who can save the kingdom from certain doom.
+[Offer your assistance](The Battle)
+[Keep the information to yourself](The End)
+
+::The Bazaar
+You browse the colorful stalls of the bazaar, haggling with vendors over the prices of their goods. You find a few souvenirs to take back home with you.
+[Return to the inn](The Inn)
+[Keep exploring the city](The Palace Gates)

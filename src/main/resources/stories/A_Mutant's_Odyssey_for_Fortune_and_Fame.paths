@@ -1,0 +1,121 @@
+A Mutant's Odyssey for Fortune and Fame
+
+::The Beginning
+You are a mutant, born with extraordinary powers, and you have a burning desire to explore the world, find riches, and help those in need. With determination in your heart, you embark on a journey filled with adventure and excitement.
+[Begin your adventure](The Birth of a Hero)
+
+::The Birth of a Hero
+You are a unique mutant, living on the outskirts of a small village. Your powers have made you an outcast, but you refuse to let that define you. Instead, you decide to venture out into the world, seeking opportunities to use your abilities for good and gain the respect of others.
+[Begin your journey](Leaving the Village)
+[Stay and enjoy the safety of your home](The End)
+
+::Leaving the Village
+You take a deep breath and step out of your home, leaving the safety of the village behind. As you walk down the road, you feel a surge of excitement and anticipation for the journey ahead.
+[Head to the bustling city](The Bustling City)
+[Visit the wise sage in the mountains](The Wise Sage)
+[Explore the mysterious forest](The Mysterious Forest)
+
+::The Bustling City
+You arrive at a bustling city, filled with people from all walks of life. You're drawn to the lively atmosphere and the promise of adventure it holds.
+[Search for work as a bounty hunter](The Bounty Hunter)
+;Score{5}
+;Inventory{Bounty License}
+[Participate in an underground fighting ring](The Fighting Ring)
+;Score{10}
+;Gold{50}
+;Inventory{Fighting Gloves}
+[Leave the city and continue your journey](Leaving the Village)
+
+::The Bounty Hunter
+As a skilled bounty hunter, you track down criminals and outlaws, bringing them to justice and earning a reputation for your unique abilities. Your newfound career leads you on exciting adventures and helps you amass a small fortune.
+[Continue your journey](The Crossroads)
+
+::The Fighting Ring
+You enter the underground fighting ring, using your powers to become a formidable fighter. Your strength and skills attract attention, earning you a loyal following and a considerable amount of gold.
+[Continue your journey](The Crossroads)
+
+::The Wise Sage
+You arrive at the wise sage's dwelling in the mountains. The sage offers to teach you the secrets of mastering your powers and using them for the greater good.
+[Accept the sage's teachings](Sage's Teachings)
+;Health{20}
+;Score{10}
+;Inventory{Mystical Amulet}
+[Decline and continue on your journey](Leaving the Village)
+
+::Sage's Teachings
+The wise sage imparts his knowledge upon you, helping you to refine your powers and unlock new abilities. You thank the sage for his teachings and continue on your path.
+[Continue your journey](The Crossroads)
+
+::The Mysterious Forest
+You venture into the mysterious forest, a place rumored to be filled with powerful creatures and hidden treasures. As you explore, you encounter a fearsome dragon guarding a hoard of gold.
+[Face the dragon](The Dragon's Lair)
+[Leave the forest and continue your journey](Leaving the Village)
+
+::The Dragon's Lair
+You bravely face the fearsome dragon, using your powers to defeat the mighty beast. As the dragon falls, you claim a portion of its hoard and earn the title of Dragon Slayer.
+[Claim your reward](The Dragon's Treasure)
+;Health{-30}
+;Gold{500}
+;Score{100}
+;Inventory{Dragon Tooth}
+
+::The Dragon's Treasure
+You gather some of the dragon's treasure, feeling a sense of accomplishment and pride. With newfound wealth in tow, you continue on your journey.
+[Continue your journey](The Crossroads)
+
+::The Crossroads
+You arrive at a crossroads, where paths lead in three different directions. Each path promises its own unique adventure and challenges.
+[Take the path to the enchanted kingdom](The Enchanted Kingdom)
+[Take the path to the haunted graveyard](The Haunted Graveyard)
+[Take the path to the lost city of gold](The Lost City of Gold)
+
+::The Enchanted Kingdom
+You journey to the enchanted kingdom, a land filled with magical creatures and wondrous sights. The kingdom is under siege by a dark sorcerer, and you decide to help the inhabitants defend their home.
+[Confront the dark sorcerer](The Sorcerer's Tower)
+[Assist the kingdom's defenders](The Kingdom's Defenders)
+
+::The Sorcerer's Tower
+You enter the dark sorcerer's tower, using your powers to overcome the magical traps and guardians. In a final battle, you defeat the sorcerer and restore peace to the enchanted kingdom.
+[Claim your reward](The Sorcerer's Treasure)
+;Health{-20}
+;Gold{300}
+;Score{50}
+;Inventory{Sorcerer's Staff}
+
+::The Kingdom's Defenders
+You join the kingdom's defenders, using your powers to help protect the land and its inhabitants. Your heroic efforts earn you the gratitude and admiration of the kingdom.
+[Continue your journey](The Crossroads)
+
+::The Haunted Graveyard
+You walk the path to the haunted graveyard, a place filled with restless spirits and ancient curses. As you explore, you encounter a powerful ghost in need of your help.
+[Assist the ghost](The Ghost's Request)
+[Leave the graveyard and continue your journey](The Crossroads)
+
+::The Ghost's Request
+You agree to help the ghost, using your powers to uncover the truth behind its tragic past and put its soul to rest. In gratitude, the ghost rewards you with a valuable treasure.
+[Accept the treasure](The Ghost's Treasure)
+;Gold{200}
+;Score{30}
+;Inventory{Ghostly Locket}
+
+::The Ghost's Treasure
+You accept the ghost's treasure, feeling a sense of accomplishment and satisfaction. With the newfound reward in tow, you continue on your journey.
+[Continue your journey](The Crossroads)
+
+::The Lost City of Gold
+You follow the path to the lost city of gold, a legendary place rumored to hold unimaginable wealth. As you explore the city, you uncover ancient secrets and face dangerous adversaries.
+[Search for the city's hidden treasures](The Hidden Treasures)
+[Leave the city and continue your journey](The Crossroads)
+
+::The Hidden Treasures
+You delve deep into the lost city, discovering hidden treasures and powerful artifacts. As you claim your rewards, you feel a sense of pride in your accomplishments and the riches you've amassed.
+[Claim your reward](The City's Riches)
+;Gold{1000}
+;Score{150}
+
+::The City's Riches
+You gather the lost city's riches, feeling a sense of accomplishment and pride. With newfound wealth in tow, you continue on your journey.
+[Continue your journey](The Crossroads)
+
+::The End
+Having achieved your dreams and fulfilled your destiny, you settle down in a peaceful village, content with your accomplishments. As the sun sets on your epic journey, you know that your story will be remembered for generations to come.

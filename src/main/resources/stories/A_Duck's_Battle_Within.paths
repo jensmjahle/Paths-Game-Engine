@@ -1,0 +1,86 @@
+A Duck's Battle Within
+
+::The Beginning
+You are a duck, swimming gracefully in a calm pond, and you have a burning desire to overcome your inner demons. With determination in your heart, you embark on a journey of self-discovery and healing.
+[Begin your adventure](A Courageous Duck)
+
+::A Courageous Duck
+You are a small but courageous duck, living in a peaceful pond. You've heard tales of legendary creatures who have faced their fears and achieved inner peace. Inspired by their stories, you decide to confront your own demons and find tranquility.
+[Begin your adventure](Leaving the Pond)
+;Score{5}
+;Inventory{Courage}
+[Stay and enjoy the safety of the pond](The End)
+
+::Leaving the Pond
+You take a deep breath and flap your wings, leaving the safety of the pond behind. As you glide through the air, you feel a surge of excitement and anticipation for the journey ahead.
+[Head to the mysterious swamp](The Mysterious Swamp)
+[Visit the wise owl in the forest](The Wise Owl)
+[Seek guidance from the ancient turtle](The Ancient Turtle)
+
+::The Mysterious Swamp
+You venture into the murky swamp, where you encounter a group of knowledgeable frogs. They offer to teach you their secret techniques for confronting your fears.
+[Accept their offer](Frog Wisdom)
+[Decline and continue on your journey](The Swamp Path)
+
+::Frog Wisdom
+The wise frogs share their knowledge with you, teaching you valuable skills that will aid you in your journey. You thank them for their wisdom and continue on your path.
+[Head deeper into the swamp](The Enchanted Marsh)
+[Return to the pond](A Courageous Duck)
+
+::The Swamp Path
+You follow the winding path through the swamp, coming across a fork in the road. The path splits into two directions.
+[Take the left path](The Enchanted Marsh)
+[Take the right path](The Shadowy Bog)
+
+::The Wise Owl
+You arrive at the forest, where you find the wise owl perched on a branch. The owl offers to guide you on your journey, helping you confront and conquer your fears.
+[Accept the owl's guidance](The Owl's Guidance)
+[Decline and continue on your journey](Leaving the Pond)
+
+::The Owl's Guidance
+With the wise owl by your side, you face your fears head-on, growing stronger with each challenge you overcome. You thank the owl for its guidance and continue on your path.
+[Seek guidance from the ancient turtle](The Ancient Turtle)
+[Return to the pond](A Courageous Duck)
+
+::The Ancient Turtle
+You approach the ancient turtle, a being known for its infinite wisdom and serenity. The turtle offers to share its secrets with you, teaching you the ways of inner peace.
+[Accept the turtle's teachings](Turtle Teachings)
+[Decline and continue on your journey](Leaving the Pond)
+
+::Turtle Teachings
+The ancient turtle imparts its wisdom upon you, helping you to cultivate inner peace and balance. You thank the turtle for its teachings and continue on your path.
+[Head to the enchanted marsh](The Enchanted Marsh)
+[Return to the pond](A Courageous Duck)
+
+::The Enchanted Marsh
+You stumble upon an enchanted marsh, filled with magical creatures that possess extraordinary powers. The guardian of the marsh offers you a choice of three magical talismans, each with its own unique ability.
+[Choose the talisman of courage](The Talisman of Courage)
+[Choose the talisman of wisdom](The Talisman of Wisdom)
+[Choose the talisman of healing](The Talisman of Healing)
+
+::The Talisman of Courage
+You choose the talisman of courage, feeling your resolve strengthen and your fears diminish. With your newfound courage, you are confident that you can face any challenge in your path.
+[Continue your journey](The Final Confrontation)
+
+::The Talisman of Wisdom
+You choose the talisman of wisdom, and your mind expands with knowledge and understanding. With your newfound wisdom, you can easily navigate the complexities of your inner struggles.
+[Continue your journey](The Final Confrontation)
+
+::The Talisman of Healing
+You choose the talisman of healing, feeling a soothing energy envelop you, mending your emotional wounds. With your newfound healing power, you can mend your heart and face your demons.
+[Continue your journey](The Final Confrontation)
+
+::The Final Confrontation
+With your skills and abilities honed to perfection, you face your final confrontation, a formidable inner demon that will test everything you've learned on your journey. As you triumph over your adversary, you prove that you are truly a duck who has conquered its fears.
+[Return to the pond in triumph](The Triumphant Return)
+
+::The Triumphant Return
+You return to your home, the peaceful pond where your journey began, triumphant and with a newfound sense of inner peace. Your fellow creatures celebrate your achievements, and you bask in the glory of your emotional victory.
+[Rest and reflect on your journey](The End)
+
+::The Shadowy Bog
+You enter the shadowy bog, a mysterious and foreboding place. As you navigate the darkness, you feel an unsettling presence lurking just beyond your sight. Despite your fear, you press onward.
+[Face the unknown](The Final Confrontation)
+
+::The End
+Having achieved your dreams and fulfilled your destiny, you settle down in the calm waters of the pond, content with your accomplishments. As the sun sets on your epic journey, you know that your story will be remembered for generations to come.

@@ -1,0 +1,90 @@
+A Lemon's Quest for Glory
+
+::The Beginning
+You are a lemon, freshly plucked from a tree, and you have a burning desire to prove your worth in the world. With determination in your heart, you embark on an epic quest for glory.
+[Begin your adventure](A Brave Lemon)
+
+::A Brave Lemon
+You are a small but brave lemon, hanging from a lemon tree in a peaceful orchard. You've heard tales of legendary fruits that have embarked on epic adventures and achieved great feats. Inspired by their stories, you decide to set out on your own quest for glory.
+[Begin your adventure](Leaving the Tree)
+[Stay and enjoy the safety of the tree](The End)
+
+::Leaving the Tree
+You take a deep breath and let go of your branch, tumbling to the ground below. As you lie there, you feel a surge of excitement and anticipation for the journey ahead.
+[Head to the nearby forest](The Forest)
+[Visit the bustling fruit market](The Fruit Market)
+[Explore the mysterious cave](The Mysterious Cave)
+
+::The Forest
+You venture into the dense forest, where you encounter a group of wise talking berries. They offer to teach you their secret knowledge of the fruit world.
+[Accept their offer](Berry Wisdom)
+[Decline and continue on your journey](The Forest Path)
+
+::Berry Wisdom
+The wise talking berries share their knowledge with you, teaching you valuable skills that will aid you in your journey. You thank them for their wisdom and continue on your path.
+[Head deeper into the forest](The Enchanted Grove)
+[Return to the orchard](A Brave Lemon)
+
+::The Forest Path
+You follow the winding path through the forest, coming across a fork in the road. The path splits into two directions.
+[Take the left path](The Enchanted Grove)
+[Take the right path](The Dark Woods)
+
+::The Fruit Market
+You arrive at the bustling fruit market, where fruits of all shapes and sizes come to trade their wares. You marvel at the sights and sounds, wondering what valuable items you might find here.
+[Shop for useful items](The Marketplace)
+[Join a group of traveling fruits](The Traveling Companions)
+[Leave the market](Leaving the Tree)
+
+::The Marketplace
+You browse the market stalls, picking up useful items for your journey. With your new acquisitions in tow, you feel more prepared than ever for the challenges ahead.
+[Return to the orchard](A Brave Lemon)
+[Join a group of traveling fruits](The Traveling Companions)
+
+::The Traveling Companions
+You join a group of fellow fruits who are also seeking adventure. Together, you face exciting challenges and make new friends along the way.
+[Head to the mysterious cave](The Mysterious Cave)
+[Visit the enchanted forest](The Enchanted Grove)
+
+::The Mysterious Cave
+You enter the dark, mysterious cave, guided by the flickering light of a firefly. As you venture deeper into the cave, you discover a hidden chamber filled with glittering gems and treasures.
+[Collect some treasure](The Hidden Treasure)
+[Leave the cave](Leaving the Tree)
+
+::The Hidden Treasure
+You gather some of the precious gems and add them to your inventory, feeling a sense of accomplishment. With newfound wealth in tow, you continue on your journey.
+[Head to the enchanted forest](The Enchanted Grove)
+[Return to the orchard](A Brave Lemon)
+
+::The Enchanted Grove
+You stumble upon an enchanted grove, filled with magical fruits that possess extraordinary powers. The guardian of the grove offers you a choice of three magical fruits, each with its own unique ability.
+[Choose the fruit of strength](The Fruit of Strength)
+[Choose the fruit of wisdom](The Fruit of Wisdom)
+[Choose the fruit of speed](The Fruit of Speed)
+
+::The Fruit of Strength
+You choose the fruit of strength, feeling the power coursing through your lemony flesh. With your newfound strength, you are confident that you can overcome any obstacle in your path.
+[Continue your journey](The Final Challenge)
+
+::The Fruit of Wisdom
+You choose the fruit of wisdom, and your mind expands with knowledge and understanding. With your newfound wisdom, you can easily solve any puzzle or riddle that stands in your way.
+[Continue your journey](The Final Challenge)
+
+::The Fruit of Speed
+You choose the fruit of speed, feeling your senses sharpen and your reflexes quicken. With your newfound speed, you can outrun any danger and traverse great distances in the blink of an eye.
+[Continue your journey](The Final Challenge)
+
+::The Final Challenge
+With your skills and abilities honed to perfection, you face your final challenge, a formidable opponent that will test everything you've learned on your journey. As you triumph over your adversary, you prove that you are truly a lemon of legend.
+[Return to the lemon tree in triumph](The Triumphant Return)
+
+::The Triumphant Return
+You return to your home, the lemon tree where your journey began, triumphant and with a newfound sense of purpose. Your fellow fruits cheer and celebrate your achievements, and you bask in the glory of your epic quest.
+[Rest and reflect on your journey](The End)
+
+::The Dark Woods
+You enter the dark woods, an eerie and foreboding place. As you navigate the shadows, you feel an unsettling presence lurking just beyond your sight. Despite your fear, you press onward.
+[Face the unknown](The Final Challenge)
+
+::The End
+Having achieved your dreams and fulfilled your destiny, you settle down under the branches of the lemon tree, content with your accomplishments. As the sun sets on your epic journey, you know that your story will be remembered for generations to come.
